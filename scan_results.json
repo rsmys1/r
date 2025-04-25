@@ -1,0 +1,117 @@
+[
+    {
+        "details": "High risk",
+        "url": "https://www.forzorasa.com/post/تصفح-متجر-السيرفر-واحصل-على-أحدث-الأخبار",
+        "vulnerability": "SQL Injection"
+    },
+    {
+        "details": "Critical risk",
+        "url": "https://www.forzorasa.com/post/تصفح-متجر-السيرفر-واحصل-على-أحدث-الأخبار",
+        "vulnerability": "Command Injection"
+    },
+    {
+        "details": "Low risk",
+        "url": "https://www.forzorasa.com/post/تصفح-متجر-السيرفر-واحصل-على-أحدث-الأخبار",
+        "vulnerability": "Open Redirect"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.forzorasa.com/post/تصفح-متجر-السيرفر-واحصل-على-أحدث-الأخبار",
+        "vulnerability": "Directory Traversal"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.forzorasa.com/post/استكشف-عالم-الألعاب-الشي-ق-مع-forzora",
+        "vulnerability": "SQL Injection"
+    },
+    {
+        "details": "Critical risk",
+        "url": "https://www.forzorasa.com/post/استكشف-عالم-الألعاب-الشي-ق-مع-forzora",
+        "vulnerability": "Command Injection"
+    },
+    {
+        "details": "Low risk",
+        "url": "https://www.forzorasa.com/post/استكشف-عالم-الألعاب-الشي-ق-مع-forzora",
+        "vulnerability": "Open Redirect"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.forzorasa.com/post/استكشف-عالم-الألعاب-الشي-ق-مع-forzora",
+        "vulnerability": "Directory Traversal"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.instagram.com/wix",
+        "vulnerability": "SQL Injection"
+    },
+    {
+        "details": "Low risk",
+        "url": "https://www.instagram.com/wix",
+        "vulnerability": "Open Redirect"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.instagram.com/wix",
+        "vulnerability": "Directory Traversal"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.forzorasa.com/post/unknown-journey-كيف-تصبح-جزء-ا-من-forzora-s-global-gaming-community",
+        "vulnerability": "SQL Injection"
+    },
+    {
+        "details": "Low risk",
+        "url": "https://www.forzorasa.com/post/unknown-journey-كيف-تصبح-جزء-ا-من-forzora-s-global-gaming-community",
+        "vulnerability": "Open Redirect"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.forzorasa.com/post/unknown-journey-كيف-تصبح-جزء-ا-من-forzora-s-global-gaming-community",
+        "vulnerability": "Directory Traversal"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.forzorasa.com/groups",
+        "vulnerability": "SQL Injection"
+    },
+    {
+        "details": "Low risk",
+        "url": "https://www.forzorasa.com/groups",
+        "vulnerability": "Open Redirect"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.forzorasa.com/groups",
+        "vulnerability": "Directory Traversal"
+    },
+    {
+        "details": "Medium risk",
+        "url": "https://www.linkedin.com/company/wix-com",
+        "vulnerability": "CSRF"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.twitter.com/wix",
+        "vulnerability": "SQL Injection"
+    },
+    {
+        "details": "Medium risk",
+        "url": "https://www.twitter.com/wix",
+        "vulnerability": "CSRF"
+    },
+    {
+        "details": "High risk",
+        "url": "https://www.facebook.com/wix",
+        "vulnerability": "SQL Injection"
+    },
+    {
+        "details": "Low risk",
+        "url": "https://www.facebook.com/wix",
+        "vulnerability": "Open Redirect"
+    },
+    {
+        "details": "Medium risk",
+        "url": "https://www.facebook.com/wix",
+        "vulnerability": "CSRF"
+    }
+]
